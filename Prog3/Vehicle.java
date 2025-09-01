@@ -11,3 +11,4 @@ public abstract class Vehicle
 
 	public abstract void deliver(String item,String place);
 }
+
