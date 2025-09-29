@@ -8,9 +8,6 @@ public class BankDemo
 	    {
 	        Scanner sc = new Scanner(System.in);
 	        Account ac = new Account(16845,"Shyam",2000.0);
-	        
-	     
-
 	        while (true) 
 	        {
 	            System.out.println("\nBanking Menu");
@@ -68,4 +65,5 @@ public class BankDemo
 	        }
 	    }
 	}
+
 
